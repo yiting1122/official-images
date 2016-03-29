@@ -42,3 +42,4 @@ centos5.11: git://github.com/CentOS/sig-cloud-instance-images@2d0554464ae19f4fd7
 5.11: git://github.com/CentOS/sig-cloud-instance-images@2d0554464ae19f4fd70d1b540c8968dbe872797b docker
 5.11: git://github.com/CentOS/sig-cloud-instance-images@2d0554464ae19f4fd70d1b540c8968dbe872797b docker
 5.11: git://github.com/CentOS/sig-cloud-instance-images@2d0554464ae19f4fd70d1b540c8968dbe872797b docker
+5.11: git://github.com/CentOS/sig-cloud-instance-images@2d0554464ae19f4fd70d1b540c8968dbe872797b docker
